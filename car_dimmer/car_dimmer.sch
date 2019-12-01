@@ -188,7 +188,7 @@ F 0 "C1" H 5318 3146 50  0000 L CNN
 F 1 "10u" H 5318 3055 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" H 5238 2950 50  0001 C CNN
 F 3 "~" H 5200 3100 50  0001 C CNN
-F 4 "https://www.chipdip.ru/product/grm32er6ya106ka12l - ceramic" H 5200 3100 50  0001 C CNN "ЧиД"
+F 4 "https://www.chipdip.ru/product/grm32er71h106k - ceramic" H 5200 3100 50  0001 C CNN "ЧиД"
 	1    5200 3100
 	1    0    0    -1  
 $EndComp
